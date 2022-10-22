@@ -1,4 +1,4 @@
 # The HD archive
-A collection of HD archive's
+A collection of HD's
 ____________________________
-Adding a FreeDOS HDD today (maybe)
+**HDD count:** 1
